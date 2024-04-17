@@ -1,0 +1,55 @@
+h1{
+    text-align: center;
+}
+
+.photo{
+    height: 250px;
+}
+
+.block1{
+    background-color: lightskyblue;
+    border: 5px solid blue;
+    padding: 20px;
+    margin-bottom: 30px;
+}
+
+.block1 h2{
+    text-align: center;
+}
+
+.block2{
+    background-color: lightgreen;
+    border: 5px solid green; 
+    padding: 20px;
+    margin-bottom: 30px;
+}
+.block2 h2{
+    text-align: center;
+}
+
+.block3{
+background-color: beige;
+border: 5px solid bisque;
+padding: 20px;
+margin-bottom: 30px;
+}
+
+.block3 h2{
+text-align: center;
+}
+
+.block3 img{
+    width: 445px;
+    height: 250px;
+}
+
+.block4{
+    border: 5px solid gray;
+    text-align: center;
+    padding: 5px;
+}
+
+.block4 img{
+    width: 50px;
+    
+}
